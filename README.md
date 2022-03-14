@@ -150,7 +150,7 @@ mvn clean spring-boot:run
     
     Verify in app's log that a similar messages was posted:
     ```shell
-    10 resources founded with pattern:*.txt
+    11 resources founded with pattern:*.txt
     ```
 
 
